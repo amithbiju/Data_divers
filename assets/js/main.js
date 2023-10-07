@@ -235,7 +235,7 @@ var map = L.map('map').setView([20.5937,78.9629],5);
 
         
         
-        navigator.geolocation.watchPosition(sucess,error);
+        //navigator.geolocation.watchPosition(sucess,error);
 
         
 
